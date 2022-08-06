@@ -1,0 +1,30 @@
+{
+  "name": "zalo-clone-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penry28/zalo-clone-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penry28/zalo-clone-server/issues"
+  },
+  "homepage": "https://github.com/penry28/zalo-clone-server#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.5.0",
+    "mongoose": "^6.5.1",
+    "multer": "^1.4.5-lts.1",
+    "validator": "^13.7.0"
+  }
+}
